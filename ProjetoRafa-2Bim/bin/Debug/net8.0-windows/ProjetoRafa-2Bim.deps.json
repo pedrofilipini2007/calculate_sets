@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ProjetoRafa-2Bim/1.0.0": {
+        "runtime": {
+          "ProjetoRafa-2Bim.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProjetoRafa-2Bim/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
