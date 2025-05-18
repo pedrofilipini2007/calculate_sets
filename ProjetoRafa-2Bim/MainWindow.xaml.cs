@@ -25,200 +25,76 @@ namespace ProjetoRafa_2Bim
         int[] conjun_A = [0];
         int[] conjun_B = [0];
 
-        //Adicionando numeros no conjun A
+
+        //ADICIONANDO
+
+        //Adicionando números no conjun A
 
         private void btn_add_conjunA_Click(object sender, RoutedEventArgs e)
         {
-            try
-            {
-                //atribui o texto que esta no elemento txt_conjunA a uma string
-                string txt_add = txt_conjunA.Text;
+            //usa a função para converter o texto da txtbox do conjun A em um vetor de inteiros
+            conjun_A = GerenciadordeConjuntos.Converter_txtbox_vetordeinteiros(txt_conjunA.Text);
 
-                //verifca se a string esta em branco ou nula
-                if (!string.IsNullOrEmpty(txt_add))
-                {
-                    //cria um vetor com o nome numeros que separa toda a variavel txt_add por ',' e ' ' 
-                    string[] numeros = txt_add.Split(',',' ');
+            //muda o conteudo da lbl do conjunto A para o que esta dentro do vetor
+            lbl_conjunA.Content = string.Join(",", conjun_A);
 
-                    //cria uma lista de numeros, n lembro pq é melhor
-                    List<int> lista = new List<int>();
-
-                    //adiciona os numeros na lista 
-                    foreach (string parte in numeros)
-                    {   
-                        //transformo eles em numeros inteiros
-                        if (int.TryParse(parte.Trim(), out int numero))
-                                {
-                                    lista.Add(numero);
-                                }
-                        }
-                    
-                    //atribui a lista transformada em vetor para o conjunA 
-                    conjun_A = lista.ToArray();
-
-                    //muda o conteudo da lbl do conjunto A
-                    lbl_conjunA.Content = string.Join(",", conjun_A);  
-
-                    //limpa a txtbox
-                    txt_conjunA.Clear();
-                
-                }
-                else
-                {
-                    MessageBox.Show("Voce não colocou nenhum numero para ser adicionado");
-                }
-            }
-            catch(Exception ex)
-            {
-                //se der erro aparece a mensagem de erro
-                MessageBox.Show("Erro ao ler o arquivo: " + ex.Message);
-            }
+            //limpa a txtbox
+            txt_conjunA.Clear();
         }
 
-        //Adicionando numeros no conjun B
+        //Adicionando números no conjun B
 
         private void btn_add_conjunB_Click(object sender, RoutedEventArgs e)
         {
-            try
-            {
-                //atribui o texto que esta no elemento txt_conjunB a uma string
-                string txt_add = txt_conjunB.Text;
+            //usa a função para converter o texto da txtbox do conjun B em um vetor de inteiros
+            conjun_B = GerenciadordeConjuntos.Converter_txtbox_vetordeinteiros(txt_conjunB.Text);
 
-                //verifca se a string esta em branco ou nula
-                if (!string.IsNullOrEmpty(txt_add))
-                {
-                    //cria um vetor com o nome numeros que separa toda a variavel txt_add por ',' e ' ' 
-                    string[] numeros = txt_add.Split(',', ' ');
+            //muda o conteudo da lbl do conjunto B para o que esta dentro do vetor
+            lbl_conjunB.Content = string.Join(",", conjun_B);
 
-                    //cria uma lista de numeros, n lembro pq é melhor
-                    List<int> lista = new List<int>();
+            //limpa a txtbox
+            txt_conjunB.Clear();
 
-                    //adiciona os numeros na lista 
-                    foreach (string parte in numeros)
-                    {
-                        //transformo eles em numeros inteiros
-                        if (int.TryParse(parte.Trim(), out int numero))
-                        {
-                            lista.Add(numero);
-                        }
-                    }
 
-                    //atribui a lista transformada em vetor para o conjunA 
-                    conjun_B = lista.ToArray();
-
-                    //mudo o conteudo da lbl do conjunto A
-                    lbl_conjunB.Content = string.Join(",", conjun_B);
-
-                    //limpa a txtbox
-                    txt_conjunB.Clear();
-
-                }
-                else
-                {
-                    MessageBox.Show("Voce não colocou nenhum numero para ser adicionado");
-                }
-            }
-            catch (Exception ex)
-            {
-                //se der erro aparece a mensagem de erro
-                MessageBox.Show("Erro ao ler o arquivo: " + ex.Message);
-            }
         }
+
+
+
+
+
+        //REMOVENDO
 
         //Removendo elementos do Conjun A
 
         private void btn_remove_conjunA_Click(object sender, RoutedEventArgs e)
         {
-            try
-            {
-                //variavel armazenando a txtbox do conjun A
-                string txt_remove = txt_conjunA.Text;
+            //Remove os números informados no TextBox do conjunto A
+            conjun_A = GerenciadordeConjuntos.RemoverElementosDoVetor(txt_conjunA.Text, conjun_A);
 
-                //verifica se a string é nula ou esta em branco
-                if(!string.IsNullOrEmpty(txt_remove))
-                {
-                    //separa os elemento por ',' ou ' '
-                    string[] numeros = txt_remove.Split(',', ' ');
+            //Atualiza a interface.
+            lbl_conjunA.Content = String.Join(",", conjun_A);
 
-                    //cria uma lista de numeros int que tem o mesmo que o conjunto A 
-                    List<int> lista = new List<int> (conjun_A);
+            //limpa txtbox do conjun A
+            txt_conjunA.Clear();
 
-                    //percorre numeros, verifica se esta presente em conjun A transforma em numeros int e depois adiciona na lista
-                    foreach (string parte in numeros)
-                    {
-                        if(int.TryParse(parte.Trim(), out int numero) && conjun_A.Contains(numero))
-                        {
-                            lista.Remove(numero);
-                        }
-                    }
 
-                    //iguala o conjun A ao o que tem na lista de numeros int
-                    conjun_A = lista.ToArray();
-
-                    //muda a lbl do conjun A para os elementos do conjun A e os separa por virgulas
-                    lbl_conjunA.Content = String.Join(",", conjun_A);
-
-                    //limpa txtbox do conjun A
-                    txt_conjunA.Clear();
-                }
-                else
-                {
-                    MessageBox.Show("Não tem nada para remover no conjunto");
-                }
-            }
-            catch(Exception ex)
-            {
-                //mostra a mensagem de erro se houver
-                MessageBox.Show("Erro ao ler o arquivo: " + ex.Message); 
-            }
         }
 
         //Removendo elementos do Conjun B
+
         private void btn_remove_conjunB_Click(object sender, RoutedEventArgs e)
         {
-            try
-            {
-                //variavel armazenando a txtbox do conjun A
-                string txt_remove = txt_conjunB.Text;
 
-                //verifica se a string é nula ou esta em branco
-                if (!string.IsNullOrEmpty(txt_remove))
-                {
-                    //separa os elemento por ',' ou ' '
-                    string[] numeros = txt_remove.Split(',', ' ');
+            //Remove os números informados no TextBox do conjunto B
+            conjun_B = GerenciadordeConjuntos.RemoverElementosDoVetor(txt_conjunB.Text, conjun_B);
 
-                    //cria uma lista de numeros int que tem o mesmo que o conjunto A 
-                    List<int> lista = new List<int>(conjun_B);
+            //Atualiza a interface.
+            lbl_conjunB.Content = String.Join(",", conjun_B);
 
-                    //percorre numeros, verifica se esta presente em conjun A transforma em numeros int e depois adiciona na lista
-                    foreach (string parte in numeros)
-                    {
-                        if (int.TryParse(parte.Trim(), out int numero) && conjun_B.Contains(numero))
-                        {
-                            lista.Remove(numero);
-                        }
-                    }
+            //limpa txtbox do conjun B
+            txt_conjunB.Clear();
 
-                    //iguala o conjun A ao o que tem na lista de numeros int
-                    conjun_B = lista.ToArray();
-
-                    //muda a lbl do conjun A para os elementos do conjun A e os separa por virgulas
-                    lbl_conjunB.Content = String.Join(",", conjun_B);
-
-                    //limpa txtbox do conjun B
-                    txt_conjunB.Clear();
-                }
-                else
-                {
-                    MessageBox.Show("Não tem nada para remover no conjunto");
-                }
-            }
-            catch (Exception ex)
-            {
-                //mostra a mensagem de erro se houver
-                MessageBox.Show("Erro ao ler o arquivo: " + ex.Message);
-            }
         }
+        
     }
-    
 }
