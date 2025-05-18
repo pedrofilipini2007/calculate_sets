@@ -38,3 +38,4 @@ C:\Users\Lenovo\estudos_projetos\projetos\ProjetoRafa-2Bim\ProjetoRafa-2Bim\obj\
 C:\Users\Lenovo\estudos_projetos\projetos\ProjetoRafa-2Bim\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.csproj.CoreCompileInputs.cache
 C:\Users\Lenovo\estudos_projetos\projetos\ProjetoRafa-2Bim\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.genruntimeconfig.cache
 C:\Users\Lenovo\estudos_projetos\projetos\ProjetoRafa-2Bim\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ref\ProjetoRafa-2Bim.dll
+C:\Users\Lenovo\estudos_projetos\projetos\ProjetoRafa-2Bim\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.sourcelink.json
