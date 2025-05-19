@@ -22,6 +22,9 @@ namespace ProjetoRafa_2Bim
             InitializeComponent();
         }
 
+        Conjunto conjunA = new Conjunto();
+        Conjunto conjunB = new Conjunto();
+
         int[] conjun_A = [0];
         int[] conjun_B = [0];
 
@@ -32,11 +35,9 @@ namespace ProjetoRafa_2Bim
 
         private void btn_add_conjunA_Click(object sender, RoutedEventArgs e)
         {
-            //usa a função para converter o texto da txtbox do conjun A em um vetor de inteiros
-            conjun_A = GerenciadordeConjuntos.Converter_txtbox_vetordeinteiros(txt_conjunA.Text);
+            conjunA.Adicionar(txt_conjunA.Text);
 
-            //muda o conteudo da lbl do conjunto A para o que esta dentro do vetor
-            lbl_conjunA.Content = string.Join(",", conjun_A);
+            lbl_conjunA.Content = conjunA.ToString();
 
             //limpa a txtbox
             txt_conjunA.Clear();
@@ -46,11 +47,9 @@ namespace ProjetoRafa_2Bim
 
         private void btn_add_conjunB_Click(object sender, RoutedEventArgs e)
         {
-            //usa a função para converter o texto da txtbox do conjun B em um vetor de inteiros
-            conjun_B = GerenciadordeConjuntos.Converter_txtbox_vetordeinteiros(txt_conjunB.Text);
+            conjunB.Adicionar(txt_conjunB.Text);
 
-            //muda o conteudo da lbl do conjunto B para o que esta dentro do vetor
-            lbl_conjunB.Content = string.Join(",", conjun_B);
+            lbl_conjunB.Content = conjunB.ToString();
 
             //limpa a txtbox
             txt_conjunB.Clear();
@@ -69,10 +68,10 @@ namespace ProjetoRafa_2Bim
         private void btn_remove_conjunA_Click(object sender, RoutedEventArgs e)
         {
             //Remove os números informados no TextBox do conjunto A
-            conjun_A = GerenciadordeConjuntos.RemoverElementosDoVetor(txt_conjunA.Text, conjun_A);
+            conjunA.Remover(txt_conjunA.Text, conjunA);
 
             //Atualiza a interface.
-            lbl_conjunA.Content = String.Join(",", conjun_A);
+            lbl_conjunA.Content =conjunA.ToString();
 
             //limpa txtbox do conjun A
             txt_conjunA.Clear();
@@ -86,10 +85,10 @@ namespace ProjetoRafa_2Bim
         {
 
             //Remove os números informados no TextBox do conjunto B
-            conjun_B = GerenciadordeConjuntos.RemoverElementosDoVetor(txt_conjunB.Text, conjun_B);
+            conjunB.Remover(txt_conjunB.Text, conjunB);
 
             //Atualiza a interface.
-            lbl_conjunB.Content = String.Join(",", conjun_B);
+            lbl_conjunB.Content = conjunB.ToString();
 
             //limpa txtbox do conjun B
             txt_conjunB.Clear();
