@@ -21,12 +21,12 @@ namespace ProjetoRafa_2Bim
             {
                 if (!string.IsNullOrEmpty(entrada))
                 {
-                    //cria um vetor com o nome numeros que separa toda a variavel txt_add por ',' e ' ' 
+                    //cria um vetor com o nome números que separa a string por ',' e ' ' 
                     string[] numeros = entrada.Split(',', ' ');
 
                     foreach (var parte in numeros)
                     {
-                        //transformo eles em numeros inteiros
+                        //transformo eles em números inteiros
                         if (int.TryParse(parte.Trim(), out int numero))
                         {
                             elementos.Add(numero);
@@ -74,6 +74,21 @@ namespace ProjetoRafa_2Bim
             }
         }
 
+        public void randomizar(Conjunto conjunto)
+        {
+            elementos.Clear(); // Limpa os elementos existentes
+
+            Random random = new Random();
+
+            for (int i = 0; i < 20; i++)
+            {
+                elementos.Add(random.Next(1, 100)); // Gera números entre 1 e 99
+            }
+        }
+
+
+
+     
 
 
 
@@ -81,9 +96,11 @@ namespace ProjetoRafa_2Bim
 
 
 
-
-
-        public override string ToString() => string.Join(", ", elementos);
+        //override faz mostrar os elementos da classe em vez de só o nome da classe
+        //OrderBy() é um método de extensão LINQ que ordena os elementos de uma sequência em ordem crescente ou decrescente.
+        //e => e define a ordenação como  crecente (menor para o maior)
+        //ToString() é um método que retorna uma string que representa o objeto atual.
+        public override string ToString() => string.Join(", ", elementos.OrderBy(e => e));
         
     }
 }

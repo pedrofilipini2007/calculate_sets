@@ -94,6 +94,23 @@ namespace ProjetoRafa_2Bim
             txt_conjunB.Clear();
 
         }
-        
+
+        private void btn_random_conjunA_Click(object sender, RoutedEventArgs e)
+        {
+            conjunA.randomizar(conjunA);
+
+            lbl_conjunA.Content = conjunA.ToString();
+
+            txt_conjunA.Clear();
+        }
+
+        private void btn_random_conjunB_Click(object sender, RoutedEventArgs e)
+        {
+            conjunB.randomizar(conjunB);
+
+            lbl_conjunB.Content = conjunB.ToString();
+
+            txt_conjunB.Clear();
+        }
     }
 }

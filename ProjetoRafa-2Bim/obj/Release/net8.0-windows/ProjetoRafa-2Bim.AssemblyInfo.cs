@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProjetoRafa-2Bim")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2f7a5d75bbb8d6dfffce7515fbc981c8ff188c48")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e9e8a7d7082582eff06fc2e672f2348d7e1f1e8")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProjetoRafa-2Bim")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProjetoRafa-2Bim")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
