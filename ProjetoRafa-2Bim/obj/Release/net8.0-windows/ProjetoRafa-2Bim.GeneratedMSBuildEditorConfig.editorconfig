@@ -8,6 +8,15 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ProjetoRafa_2Bim
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\andor\Estudos e projetos\projeto\wpf projetos\calculate_sets\ProjetoRafa-2Bim\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
+=======
+build_property.ProjectDir = C:\Users\23023\Downloads\calculate_sets-main\ProjetoRafa-2Bim\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+>>>>>>> a4ff1c6 (O projeto foi estilizado)

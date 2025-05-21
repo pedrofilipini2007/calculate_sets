@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "4GUzDlgk9RU=",
   "success": true,
   "projectFilePath": "C:\\Users\\andor\\Estudos e projetos\\projeto\\wpf projetos\\calculate_sets\\ProjetoRafa-2Bim\\ProjetoRafa-2Bim.csproj",
+=======
+  "dgSpecHash": "9rgCGuc3cuA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\23023\\Downloads\\calculate_sets-main\\ProjetoRafa-2Bim\\ProjetoRafa-2Bim.csproj",
+>>>>>>> a4ff1c6 (O projeto foi estilizado)
   "expectedPackageFiles": [],
   "logs": []
 }

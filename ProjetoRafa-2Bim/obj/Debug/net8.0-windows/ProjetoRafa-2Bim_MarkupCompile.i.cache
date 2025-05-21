@@ -4,6 +4,7 @@
 winexe
 C#
 .cs
+<<<<<<< HEAD
 C:\Users\andor\Estudos e projetos\projeto\wpf projetos\calculate_sets\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\
 ProjetoRafa_2Bim
 none
@@ -14,6 +15,18 @@ C:\Users\andor\Estudos e projetos\projeto\wpf projetos\calculate_sets\ProjetoRaf
 
 7398929228
 198-1509178875
+=======
+C:\Users\23023\Downloads\calculate_sets-main\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\
+ProjetoRafa_2Bim
+none
+false
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
+C:\Users\23023\Downloads\calculate_sets-main\ProjetoRafa-2Bim\App.xaml
+11407045341
+
+7398929228
+198-537775612
+>>>>>>> a4ff1c6 (O projeto foi estilizado)
 MainWindow.xaml;
 
 False

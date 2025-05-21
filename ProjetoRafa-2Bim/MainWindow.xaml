@@ -5,6 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ProjetoRafa_2Bim"
         mc:Ignorable="d"
+<<<<<<< HEAD
         Title="MainWindow" Height="500" Width="900">
     <Grid>
         <Label x:Name="lbl_conjunA" Content="" HorizontalAlignment="Left" Margin="123,107,0,0" VerticalAlignment="Top" Height="30" Width="730" Background="#FFE2E2E2" IsEnabled="False" Foreground="Black"/>
@@ -29,3 +30,142 @@
 
     </Grid>
 </Window>
+=======
+        Title="Operações com Conjuntos" Height="500" Width="900"
+        WindowStartupLocation="CenterScreen">
+    <Window.Resources>
+        <Style x:Key="ModernButton" TargetType="Button">
+            <Setter Property="Background" Value="#FF4285F4"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="BorderBrush" Value="#FF3367D6"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="Padding" Value="5"/>
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Background="{TemplateBinding Background}" 
+                                BorderBrush="{TemplateBinding BorderBrush}" 
+                                BorderThickness="{TemplateBinding BorderThickness}" 
+                                CornerRadius="3">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="Background" Value="#FF3367D6"/>
+                </Trigger>
+                <Trigger Property="IsPressed" Value="True">
+                    <Setter Property="Background" Value="#FF2A56C6"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+
+        <Style x:Key="OperationButton" TargetType="Button" BasedOn="{StaticResource ModernButton}">
+            <Setter Property="Background" Value="#FF34A853"/>
+            <Setter Property="BorderBrush" Value="#FF2D8E47"/>
+            <Style.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="Background" Value="#FF2D8E47"/>
+                </Trigger>
+                <Trigger Property="IsPressed" Value="True">
+                    <Setter Property="Background" Value="#FF267C3D"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+
+    <Grid Margin="0,0,0,6" Background="Azure">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="52*"/>
+            <RowDefinition Height="175*"/>
+        </Grid.RowDefinitions>
+        <!-- Conjunto A -->
+        <TextBlock HorizontalAlignment="Left" Margin="39,101,0,0" TextWrapping="Wrap" 
+                   Text="Conjunto A" VerticalAlignment="Top" Height="25" Width="90" 
+                   FontSize="16" FontWeight="Bold" TextAlignment="Center" Foreground="#FF202020" Grid.RowSpan="2" />
+
+        <TextBox x:Name="txt_conjunA" HorizontalAlignment="Left" Height="30" Margin="135,97,0,0" 
+                TextWrapping="Wrap" VerticalAlignment="Top" Width="176" VerticalContentAlignment="Center" BorderBrush="#FF202020" Grid.RowSpan="2"/>
+
+        <Button x:Name="btn_add_conjunA" Content="Adicionar" HorizontalAlignment="Left" Height="30" 
+               Margin="326,97,0,0" VerticalAlignment="Top" Width="90" Style="{StaticResource ModernButton}"
+               Click="btn_add_conjunA_Click" Foreground="Black" Background="#FFAFCDFF" Grid.RowSpan="2" BorderBrush="#FF296CFB"/>
+
+        <Button x:Name="btn_remove_conjunA" Content="Remover" HorizontalAlignment="Left" Height="30" 
+               Margin="431,97,0,0" VerticalAlignment="Top" Width="90" Style="{StaticResource ModernButton}"
+               Click="btn_remove_conjunA_Click" Background="#FFFFA7A7" BorderBrush="#FFFF2D2D" Foreground="Black" Grid.RowSpan="2"/>
+
+        <Button x:Name="btn_random_conjunA" Content="Aleatório" HorizontalAlignment="Left" Height="30" 
+               Margin="536,97,0,0" VerticalAlignment="Top" Width="90" Style="{StaticResource ModernButton}"
+               Click="btn_random_conjunA_Click" Background="#FFFFD9B2" BorderBrush="#FFFF9221" Foreground="Black" Grid.RowSpan="2"/>
+
+        <Border HorizontalAlignment="Left" Margin="135,26,0,0" VerticalAlignment="Top" 
+               Height="40" Width="712" BorderBrush="#FF202020" BorderThickness="1" 
+               CornerRadius="5" Background="White" Padding="10" Grid.Row="1">
+            <TextBlock x:Name="lbl_conjunA" TextWrapping="Wrap" VerticalAlignment="Center" FontSize="14"/>
+        </Border>
+
+        <!-- Conjunto B -->
+        <TextBlock HorizontalAlignment="Left" Margin="40,94,0,0" TextWrapping="Wrap" 
+                  Text="Conjunto B" VerticalAlignment="Top" Height="26" Width="90" 
+                  FontSize="16" FontWeight="Bold" TextAlignment="Center" Grid.Row="1" Foreground="#FF202020"/>
+
+        <TextBox x:Name="txt_conjunB" HorizontalAlignment="Left" Height="30" Margin="135,92,0,0" 
+                TextWrapping="Wrap" VerticalAlignment="Top" Width="176" VerticalContentAlignment="Center" Grid.Row="1" BorderBrush="#FF202020"/>
+
+        <Button x:Name="btn_add_conjunB" Content="Adicionar" HorizontalAlignment="Left" Height="30" 
+               Margin="326,92,0,0" VerticalAlignment="Top" Width="90" Style="{StaticResource ModernButton}"
+               Click="btn_add_conjunB_Click" Grid.Row="1" Foreground="Black" Background="#FFAFCDFF" BorderBrush="#FF296CFB"/>
+
+        <Button x:Name="btn_remove_conjunB" Content="Remover" HorizontalAlignment="Left" Height="30" 
+               Margin="431,92,0,0" VerticalAlignment="Top" Width="90" Style="{StaticResource ModernButton}"
+               Click="btn_remove_conjunB_Click" Background="#FFFFA7A7" BorderBrush="#FFFF2D2D" Grid.Row="1" Foreground="Black"/>
+
+        <Button x:Name="btn_random_conjunB" Content="Aleatório" HorizontalAlignment="Left" Height="30" 
+               Margin="536,92,0,0" VerticalAlignment="Top" Width="90" Style="{StaticResource ModernButton}"
+               Click="btn_random_conjunB_Click" Background="#FFFFD9B2" BorderBrush="#FFFF9221" Grid.Row="1" Foreground="Black"/>
+
+        <Border HorizontalAlignment="Left" Margin="135,132,0,0" VerticalAlignment="Top" 
+               Height="40" Width="712" BorderBrush="#FF202020" BorderThickness="1" 
+               CornerRadius="5" Background="White" Padding="10" Grid.Row="1">
+            <TextBlock x:Name="lbl_conjunB" TextWrapping="Wrap" VerticalAlignment="Center" FontSize="14" HorizontalAlignment="Left" Width="708"/>
+        </Border>
+
+        <!-- Operações -->
+        <Button Content="(A ∪ B)" HorizontalAlignment="Left" Margin="135,192,0,0" 
+               VerticalAlignment="Top" FontSize="14" Width="70" Height="35"
+               Style="{StaticResource OperationButton}" Grid.Row="1" Background="#FFC4FFD3" Foreground="Black" BorderBrush="#FF2FB954" FontWeight="Bold"/>
+
+        <Button Content="(A ∩ B)" HorizontalAlignment="Left" Margin="223,192,0,0" 
+               VerticalAlignment="Top" FontSize="14" Width="70" Height="35"
+               Style="{StaticResource OperationButton}" Grid.Row="1" Background="#FFC4FFD3" Foreground="Black" FontWeight="Bold" BorderBrush="#FF2FB954"/>
+
+        <Button Content="(A - B)" HorizontalAlignment="Left" Margin="311,192,0,0" 
+               VerticalAlignment="Top" FontSize="14" Width="70" Height="35"
+               Style="{StaticResource OperationButton}" Grid.Row="1" Background="#FFC4FFD3" Foreground="Black" FontWeight="Bold" BorderBrush="#FF2FB954"/>
+
+        <Button Content="(B - A)" HorizontalAlignment="Left" Margin="399,192,0,0" 
+               VerticalAlignment="Top" FontSize="14" Width="70" Height="35"
+               Style="{StaticResource OperationButton}" Grid.Row="1" Foreground="Black" FontWeight="Bold" Background="#FFC4FFD3" BorderBrush="#FF2FB954"/>
+
+        <Button Content="Subconjunto?" HorizontalAlignment="Left" Margin="487,192,0,0" 
+               VerticalAlignment="Top" FontSize="14" Width="120" Height="35"
+               Style="{StaticResource OperationButton}" Grid.Row="1" Foreground="Black" FontWeight="Bold" Background="#FFC4FFD3" BorderBrush="#FF2FB954"/>
+
+        <!-- Resultado -->
+        <TextBlock HorizontalAlignment="Left" Margin="40,257,0,0" TextWrapping="Wrap" 
+                  Text="Resultado:" VerticalAlignment="Top" Height="30" Width="90" 
+                  FontSize="16" FontWeight="Bold" TextAlignment="Center" Grid.Row="1" Foreground="#FF202020"/>
+
+        <Border HorizontalAlignment="Left" Margin="135,252,0,0" VerticalAlignment="Top" 
+               Height="40" Width="712" BorderBrush="#FF525252" BorderThickness="1" 
+               CornerRadius="5" Background="White" Padding="10" Grid.Row="1">
+            <TextBlock x:Name="lbl_resultado" TextWrapping="Wrap" VerticalAlignment="Center" FontSize="14"/>
+        </Border>
+    </Grid>
+</Window>
+>>>>>>> a4ff1c6 (O projeto foi estilizado)

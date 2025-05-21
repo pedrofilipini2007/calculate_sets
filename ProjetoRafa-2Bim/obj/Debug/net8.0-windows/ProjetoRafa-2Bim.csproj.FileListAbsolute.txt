@@ -60,3 +60,26 @@ C:\Users\andor\Estudos e projetos\projeto\wpf projetos\calculate_sets\ProjetoRaf
 C:\Users\andor\Estudos e projetos\projeto\wpf projetos\calculate_sets\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.pdb
 C:\Users\andor\Estudos e projetos\projeto\wpf projetos\calculate_sets\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.genruntimeconfig.cache
 C:\Users\andor\Estudos e projetos\projeto\wpf projetos\calculate_sets\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ref\ProjetoRafa-2Bim.dll
+<<<<<<< HEAD
+=======
+C:\Users\23023\Downloads\calculate_sets-main\ProjetoRafa-2Bim\bin\Debug\net8.0-windows\ProjetoRafa-2Bim.exe
+C:\Users\23023\Downloads\calculate_sets-main\ProjetoRafa-2Bim\bin\Debug\net8.0-windows\ProjetoRafa-2Bim.deps.json
+C:\Users\23023\Downloads\calculate_sets-main\ProjetoRafa-2Bim\bin\Debug\net8.0-windows\ProjetoRafa-2Bim.runtimeconfig.json
+C:\Users\23023\Downloads\calculate_sets-main\ProjetoRafa-2Bim\bin\Debug\net8.0-windows\ProjetoRafa-2Bim.dll
+C:\Users\23023\Downloads\calculate_sets-main\ProjetoRafa-2Bim\bin\Debug\net8.0-windows\ProjetoRafa-2Bim.pdb
+C:\Users\23023\Downloads\calculate_sets-main\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\23023\Downloads\calculate_sets-main\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\23023\Downloads\calculate_sets-main\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim_MarkupCompile.cache
+C:\Users\23023\Downloads\calculate_sets-main\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim_MarkupCompile.lref
+C:\Users\23023\Downloads\calculate_sets-main\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\23023\Downloads\calculate_sets-main\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.g.resources
+C:\Users\23023\Downloads\calculate_sets-main\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\23023\Downloads\calculate_sets-main\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.AssemblyInfoInputs.cache
+C:\Users\23023\Downloads\calculate_sets-main\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.AssemblyInfo.cs
+C:\Users\23023\Downloads\calculate_sets-main\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.csproj.CoreCompileInputs.cache
+C:\Users\23023\Downloads\calculate_sets-main\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.dll
+C:\Users\23023\Downloads\calculate_sets-main\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\refint\ProjetoRafa-2Bim.dll
+C:\Users\23023\Downloads\calculate_sets-main\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.pdb
+C:\Users\23023\Downloads\calculate_sets-main\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.genruntimeconfig.cache
+C:\Users\23023\Downloads\calculate_sets-main\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ref\ProjetoRafa-2Bim.dll
+>>>>>>> a4ff1c6 (O projeto foi estilizado)
