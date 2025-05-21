@@ -14,11 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProjetoRafa-2Bim")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-<<<<<<< HEAD
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e9e8a7d7082582eff06fc2e672f2348d7e1f1e8")]
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
->>>>>>> a4ff1c6 (O projeto foi estilizado)
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c91b883ec227efc6f1b6409003d75d04ded2867")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProjetoRafa-2Bim")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProjetoRafa-2Bim")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

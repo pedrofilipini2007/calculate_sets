@@ -60,8 +60,6 @@ C:\Users\andor\Estudos e projetos\projeto\wpf projetos\calculate_sets\ProjetoRaf
 C:\Users\andor\Estudos e projetos\projeto\wpf projetos\calculate_sets\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.pdb
 C:\Users\andor\Estudos e projetos\projeto\wpf projetos\calculate_sets\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.genruntimeconfig.cache
 C:\Users\andor\Estudos e projetos\projeto\wpf projetos\calculate_sets\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ref\ProjetoRafa-2Bim.dll
-<<<<<<< HEAD
-=======
 C:\Users\23023\Downloads\calculate_sets-main\ProjetoRafa-2Bim\bin\Debug\net8.0-windows\ProjetoRafa-2Bim.exe
 C:\Users\23023\Downloads\calculate_sets-main\ProjetoRafa-2Bim\bin\Debug\net8.0-windows\ProjetoRafa-2Bim.deps.json
 C:\Users\23023\Downloads\calculate_sets-main\ProjetoRafa-2Bim\bin\Debug\net8.0-windows\ProjetoRafa-2Bim.runtimeconfig.json
@@ -82,4 +80,3 @@ C:\Users\23023\Downloads\calculate_sets-main\ProjetoRafa-2Bim\obj\Debug\net8.0-w
 C:\Users\23023\Downloads\calculate_sets-main\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.pdb
 C:\Users\23023\Downloads\calculate_sets-main\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.genruntimeconfig.cache
 C:\Users\23023\Downloads\calculate_sets-main\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ref\ProjetoRafa-2Bim.dll
->>>>>>> a4ff1c6 (O projeto foi estilizado)
