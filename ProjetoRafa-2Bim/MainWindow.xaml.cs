@@ -25,8 +25,7 @@ namespace ProjetoRafa_2Bim
         Conjunto conjunA = new Conjunto();
         Conjunto conjunB = new Conjunto();
 
-        int[] conjun_A = [0];
-        int[] conjun_B = [0];
+        Conjunto result = new Conjunto();
 
 
         //ADICIONANDO
@@ -37,7 +36,7 @@ namespace ProjetoRafa_2Bim
         {
             conjunA.Adicionar(txt_conjunA.Text);
 
-            lbl_conjunA.Content = conjunA.ToString();
+            lbl_conjunA.Text = conjunA.ToString();
 
             //limpa a txtbox
             txt_conjunA.Clear();
@@ -49,16 +48,13 @@ namespace ProjetoRafa_2Bim
         {
             conjunB.Adicionar(txt_conjunB.Text);
 
-            lbl_conjunB.Content = conjunB.ToString();
+            lbl_conjunB.Text = conjunB.ToString();
 
             //limpa a txtbox
             txt_conjunB.Clear();
 
 
         }
-
-
-
 
 
         //REMOVENDO
@@ -71,7 +67,7 @@ namespace ProjetoRafa_2Bim
             conjunA.Remover(txt_conjunA.Text, conjunA);
 
             //Atualiza a interface.
-            lbl_conjunA.Content =conjunA.ToString();
+            lbl_conjunA.Text =conjunA.ToString();
 
             //limpa txtbox do conjun A
             txt_conjunA.Clear();
@@ -88,7 +84,7 @@ namespace ProjetoRafa_2Bim
             conjunB.Remover(txt_conjunB.Text, conjunB);
 
             //Atualiza a interface.
-            lbl_conjunB.Content = conjunB.ToString();
+            lbl_conjunB.Text = conjunB.ToString();
 
             //limpa txtbox do conjun B
             txt_conjunB.Clear();
@@ -99,7 +95,7 @@ namespace ProjetoRafa_2Bim
         {
             conjunA.randomizar(conjunA);
 
-            lbl_conjunA.Content = conjunA.ToString();
+            lbl_conjunA.Text = conjunA.ToString();
 
             txt_conjunA.Clear();
         }
@@ -108,9 +104,42 @@ namespace ProjetoRafa_2Bim
         {
             conjunB.randomizar(conjunB);
 
-            lbl_conjunB.Content = conjunB.ToString();
+            lbl_conjunB.Text = conjunB.ToString();
 
             txt_conjunB.Clear();
+        }
+
+        private void btnUniao_Click(object sender, RoutedEventArgs e)
+        {
+            Conjunto result = new Conjunto();
+            result = result.Uniao(conjunA, conjunB);
+
+            lbl_resultado.Text = result.ToString();
+
+        }
+
+        private void btnInterseçao__Click(object sender, RoutedEventArgs e)
+        {
+            Conjunto result = new Conjunto();
+            result = result.Intersecao(conjunA, conjunB);
+
+            lbl_resultado.Text = result.ToString();
+        }
+
+        private void btnDiferenca_AB_Click(object sender, RoutedEventArgs e)
+        {
+            Conjunto result = new Conjunto();
+            result = result.Diferenca(conjunA, conjunB);
+
+            lbl_resultado.Text = result.ToString();
+        }
+
+        private void btnDiferenca_BA_Click(object sender, RoutedEventArgs e)
+        {
+            Conjunto result = new Conjunto();
+            result = result.Diferenca(conjunB, conjunA);
+
+            lbl_resultado.Text = result.ToString();
         }
     }
 }

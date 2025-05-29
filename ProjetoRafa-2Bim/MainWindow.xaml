@@ -110,25 +110,21 @@
         </Border>
 
         <!-- Operações -->
-        <Button Content="(A ∪ B)" HorizontalAlignment="Left" Margin="135,192,0,0" 
+        <Button x:Name="btnUniao" Content="(A ∪ B)" HorizontalAlignment="Left" Margin="135,192,0,0" 
                VerticalAlignment="Top" FontSize="14" Width="70" Height="35"
-               Style="{StaticResource OperationButton}" Grid.Row="1" Background="#FFC4FFD3" Foreground="Black" BorderBrush="#FF2FB954" FontWeight="Bold"/>
+               Style="{StaticResource OperationButton}" Grid.Row="1" Background="#FFC4FFD3" Foreground="Black" BorderBrush="#FF2FB954" FontWeight="Bold" Click="btnUniao_Click"/>
 
-        <Button Content="(A ∩ B)" HorizontalAlignment="Left" Margin="223,192,0,0" 
+        <Button x:Name="btnInterseçao_" Content="(A ∩ B)" HorizontalAlignment="Left" Margin="223,192,0,0" 
                VerticalAlignment="Top" FontSize="14" Width="70" Height="35"
-               Style="{StaticResource OperationButton}" Grid.Row="1" Background="#FFC4FFD3" Foreground="Black" FontWeight="Bold" BorderBrush="#FF2FB954"/>
+               Style="{StaticResource OperationButton}" Grid.Row="1" Background="#FFC4FFD3" Foreground="Black" FontWeight="Bold" BorderBrush="#FF2FB954" Click="btnInterseçao__Click"/>
 
-        <Button Content="(A - B)" HorizontalAlignment="Left" Margin="311,192,0,0" 
+        <Button x:Name="btnDiferenca_AB" Content="(A - B)" HorizontalAlignment="Left" Margin="311,192,0,0" 
                VerticalAlignment="Top" FontSize="14" Width="70" Height="35"
-               Style="{StaticResource OperationButton}" Grid.Row="1" Background="#FFC4FFD3" Foreground="Black" FontWeight="Bold" BorderBrush="#FF2FB954"/>
+               Style="{StaticResource OperationButton}" Grid.Row="1" Background="#FFC4FFD3" Foreground="Black" FontWeight="Bold" BorderBrush="#FF2FB954" Click="btnDiferenca_AB_Click"/>
 
-        <Button Content="(B - A)" HorizontalAlignment="Left" Margin="399,192,0,0" 
+        <Button x:Name="btnDiferenca_BA" Content="(B - A)" HorizontalAlignment="Left" Margin="399,192,0,0" 
                VerticalAlignment="Top" FontSize="14" Width="70" Height="35"
-               Style="{StaticResource OperationButton}" Grid.Row="1" Foreground="Black" FontWeight="Bold" Background="#FFC4FFD3" BorderBrush="#FF2FB954"/>
-
-        <Button Content="Subconjunto?" HorizontalAlignment="Left" Margin="487,192,0,0" 
-               VerticalAlignment="Top" FontSize="14" Width="120" Height="35"
-               Style="{StaticResource OperationButton}" Grid.Row="1" Foreground="Black" FontWeight="Bold" Background="#FFC4FFD3" BorderBrush="#FF2FB954"/>
+               Style="{StaticResource OperationButton}" Grid.Row="1" Foreground="Black" FontWeight="Bold" Background="#FFC4FFD3" BorderBrush="#FF2FB954" Click="btnDiferenca_BA_Click"/>
 
         <!-- Resultado -->
         <TextBlock HorizontalAlignment="Left" Margin="40,257,0,0" TextWrapping="Wrap" 

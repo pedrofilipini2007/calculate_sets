@@ -3,12 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows;
 
 namespace ProjetoRafa_2Bim
 {
     public class Conjunto
     {
-        private HashSet<int> elementos;
+        public HashSet<int> elementos;
 
         public Conjunto()
         {
@@ -26,6 +27,12 @@ namespace ProjetoRafa_2Bim
 
                     foreach (var parte in numeros)
                     {
+                        int limit = 0;
+
+                        if (limit >= 20)
+                        {
+                            break;
+                        }
                         //transformo eles em números inteiros
                         if (int.TryParse(parte.Trim(), out int numero))
                         {
@@ -41,7 +48,7 @@ namespace ProjetoRafa_2Bim
             catch (Exception ex)
             {
                 //se der erro aparece a mensagem de erro
-                Console.WriteLine("Erro ao ler o arquivo: " + ex.Message);
+                MessageBox.Show("Erro ao ler o arquivo: " + ex.Message);
             }
 
         }
@@ -54,8 +61,14 @@ namespace ProjetoRafa_2Bim
                 {
                     string[] numeros = entrada.Split(',', ' ');
 
+                    int limit = 0;
+
                     foreach (var parte in numeros)
                     {
+                        if (limit >= 20)
+                        {
+                            break;
+                        }
                         if (int.TryParse(parte.Trim(), out int numero))
                         {
                             elementos.Remove(numero);
@@ -70,7 +83,7 @@ namespace ProjetoRafa_2Bim
             catch (Exception ex)
             {
                 //se der erro aparece a mensagem de erro
-                Console.WriteLine("Erro ao ler o arquivo: " + ex.Message);
+                MessageBox.Show("Erro ao ler o arquivo: " + ex.Message);
             }
         }
 
@@ -89,7 +102,59 @@ namespace ProjetoRafa_2Bim
 
 
      
+        //Operações de conjuntos
+        public Conjunto Uniao(Conjunto conjuntoA, Conjunto conjuntoB)
+        {
+            try
+            {
+                Conjunto result = new Conjunto();
+                result.elementos = (conjuntoA.elementos.Union(conjuntoB.elementos).ToHashSet());
 
+                return result;
+            }
+            catch (Exception ex)
+            {
+                //se der erro aparece a mensagem de erro
+                MessageBox.Show("Erro ao ler o arquivo: " + ex.Message);
+                return null;
+            }
+        }
+
+        public Conjunto Intersecao(Conjunto conjuntoA, Conjunto conjuntoB)
+        {
+            try
+            {
+                Conjunto result = new Conjunto();
+                result.elementos = (conjuntoA.elementos.Intersect(conjuntoB.elementos).ToHashSet());
+
+                return result;
+            }
+            catch (Exception ex)
+            {
+                //se der erro aparece a mensagem de erro
+                MessageBox.Show("Erro ao ler o arquivo: " + ex.Message);
+                return null;
+            }
+        }
+
+        public Conjunto Diferenca(Conjunto conjuntoA, Conjunto conjuntoB)
+        {
+            try
+            {
+                Conjunto result = new Conjunto();
+                result.elementos = (conjuntoA.elementos.Except(conjuntoB.elementos).ToHashSet());
+
+                return result;
+            }
+            catch (Exception ex)
+            {
+                //se der erro aparece a mensagem de erro
+                MessageBox.Show("Erro ao ler o arquivo: " + ex.Message);
+                return null;
+            }
+        }
+
+        
 
 
 
