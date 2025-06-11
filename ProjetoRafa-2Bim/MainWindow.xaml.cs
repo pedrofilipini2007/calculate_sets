@@ -67,7 +67,7 @@ namespace ProjetoRafa_2Bim
             conjunA.Remover(txt_conjunA.Text, conjunA);
 
             //Atualiza a interface.
-            lbl_conjunA.Text =conjunA.ToString();
+            lbl_conjunA.Text = conjunA.ToString();
 
             //limpa txtbox do conjun A
             txt_conjunA.Clear();

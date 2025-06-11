@@ -13,7 +13,7 @@ namespace ProjetoRafa_2Bim
 
         public Conjunto()
         {
-            elementos = new HashSet<int>();
+            elementos = new HashSet<int>(20);
         }
 
         public void Adicionar(string entrada)
@@ -24,19 +24,20 @@ namespace ProjetoRafa_2Bim
                 {
                     //cria um vetor com o nome números que separa a string por ',' e ' ' 
                     string[] numeros = entrada.Split(',', ' ');
+                    int limit = elementos.Count;
 
                     foreach (var parte in numeros)
                     {
-                        int limit = 0;
-
                         if (limit >= 20)
                         {
+                            MessageBox.Show("Esse conjunto se limita a 20 numeros");
                             break;
                         }
                         //transformo eles em números inteiros
                         if (int.TryParse(parte.Trim(), out int numero))
                         {
                             elementos.Add(numero);
+                            limit++;
                         }
                     }
                 }
@@ -61,14 +62,9 @@ namespace ProjetoRafa_2Bim
                 {
                     string[] numeros = entrada.Split(',', ' ');
 
-                    int limit = 0;
 
                     foreach (var parte in numeros)
                     {
-                        if (limit >= 20)
-                        {
-                            break;
-                        }
                         if (int.TryParse(parte.Trim(), out int numero))
                         {
                             elementos.Remove(numero);
