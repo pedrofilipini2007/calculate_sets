@@ -1,0 +1,163 @@
+C:\Users\vinic\source\repos\ProjetoRafa-2Bim\ProjetoRafa-2Bim\bin\Debug\net8.0-windows\ProjetoRafa-2Bim.exe
+C:\Users\vinic\source\repos\ProjetoRafa-2Bim\ProjetoRafa-2Bim\bin\Debug\net8.0-windows\ProjetoRafa-2Bim.deps.json
+C:\Users\vinic\source\repos\ProjetoRafa-2Bim\ProjetoRafa-2Bim\bin\Debug\net8.0-windows\ProjetoRafa-2Bim.runtimeconfig.json
+C:\Users\vinic\source\repos\ProjetoRafa-2Bim\ProjetoRafa-2Bim\bin\Debug\net8.0-windows\ProjetoRafa-2Bim.dll
+C:\Users\vinic\source\repos\ProjetoRafa-2Bim\ProjetoRafa-2Bim\bin\Debug\net8.0-windows\ProjetoRafa-2Bim.pdb
+C:\Users\vinic\source\repos\ProjetoRafa-2Bim\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\vinic\source\repos\ProjetoRafa-2Bim\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\vinic\source\repos\ProjetoRafa-2Bim\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim_MarkupCompile.cache
+C:\Users\vinic\source\repos\ProjetoRafa-2Bim\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim_MarkupCompile.lref
+C:\Users\vinic\source\repos\ProjetoRafa-2Bim\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\vinic\source\repos\ProjetoRafa-2Bim\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.g.resources
+C:\Users\vinic\source\repos\ProjetoRafa-2Bim\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\source\repos\ProjetoRafa-2Bim\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.AssemblyInfoInputs.cache
+C:\Users\vinic\source\repos\ProjetoRafa-2Bim\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.AssemblyInfo.cs
+C:\Users\vinic\source\repos\ProjetoRafa-2Bim\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.csproj.CoreCompileInputs.cache
+C:\Users\vinic\source\repos\ProjetoRafa-2Bim\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.dll
+C:\Users\vinic\source\repos\ProjetoRafa-2Bim\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\refint\ProjetoRafa-2Bim.dll
+C:\Users\vinic\source\repos\ProjetoRafa-2Bim\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.pdb
+C:\Users\vinic\source\repos\ProjetoRafa-2Bim\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.genruntimeconfig.cache
+C:\Users\vinic\source\repos\ProjetoRafa-2Bim\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ref\ProjetoRafa-2Bim.dll
+C:\Users\Lenovo\estudos_projetos\projetos\ProjetoRafa-2Bim\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Lenovo\estudos_projetos\projetos\ProjetoRafa-2Bim\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Lenovo\estudos_projetos\projetos\ProjetoRafa-2Bim\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim_MarkupCompile.cache
+C:\Users\Lenovo\estudos_projetos\projetos\ProjetoRafa-2Bim\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim_MarkupCompile.lref
+C:\Users\Lenovo\estudos_projetos\projetos\ProjetoRafa-2Bim\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.dll
+C:\Users\Lenovo\estudos_projetos\projetos\ProjetoRafa-2Bim\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\refint\ProjetoRafa-2Bim.dll
+C:\Users\Lenovo\estudos_projetos\projetos\ProjetoRafa-2Bim\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.pdb
+C:\Users\Lenovo\estudos_projetos\projetos\ProjetoRafa-2Bim\ProjetoRafa-2Bim\bin\Debug\net8.0-windows\ProjetoRafa-2Bim.exe
+C:\Users\Lenovo\estudos_projetos\projetos\ProjetoRafa-2Bim\ProjetoRafa-2Bim\bin\Debug\net8.0-windows\ProjetoRafa-2Bim.deps.json
+C:\Users\Lenovo\estudos_projetos\projetos\ProjetoRafa-2Bim\ProjetoRafa-2Bim\bin\Debug\net8.0-windows\ProjetoRafa-2Bim.runtimeconfig.json
+C:\Users\Lenovo\estudos_projetos\projetos\ProjetoRafa-2Bim\ProjetoRafa-2Bim\bin\Debug\net8.0-windows\ProjetoRafa-2Bim.dll
+C:\Users\Lenovo\estudos_projetos\projetos\ProjetoRafa-2Bim\ProjetoRafa-2Bim\bin\Debug\net8.0-windows\ProjetoRafa-2Bim.pdb
+C:\Users\Lenovo\estudos_projetos\projetos\ProjetoRafa-2Bim\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Lenovo\estudos_projetos\projetos\ProjetoRafa-2Bim\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.g.resources
+C:\Users\Lenovo\estudos_projetos\projetos\ProjetoRafa-2Bim\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\estudos_projetos\projetos\ProjetoRafa-2Bim\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.AssemblyInfoInputs.cache
+C:\Users\Lenovo\estudos_projetos\projetos\ProjetoRafa-2Bim\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.AssemblyInfo.cs
+C:\Users\Lenovo\estudos_projetos\projetos\ProjetoRafa-2Bim\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\estudos_projetos\projetos\ProjetoRafa-2Bim\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.genruntimeconfig.cache
+C:\Users\Lenovo\estudos_projetos\projetos\ProjetoRafa-2Bim\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ref\ProjetoRafa-2Bim.dll
+C:\Users\Lenovo\estudos_projetos\projetos\ProjetoRafa-2Bim\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.sourcelink.json
+C:\Users\andor\Estudos e projetos\projeto\wpf projetos\calculate_sets\ProjetoRafa-2Bim\bin\Debug\net8.0-windows\ProjetoRafa-2Bim.exe
+C:\Users\andor\Estudos e projetos\projeto\wpf projetos\calculate_sets\ProjetoRafa-2Bim\bin\Debug\net8.0-windows\ProjetoRafa-2Bim.deps.json
+C:\Users\andor\Estudos e projetos\projeto\wpf projetos\calculate_sets\ProjetoRafa-2Bim\bin\Debug\net8.0-windows\ProjetoRafa-2Bim.runtimeconfig.json
+C:\Users\andor\Estudos e projetos\projeto\wpf projetos\calculate_sets\ProjetoRafa-2Bim\bin\Debug\net8.0-windows\ProjetoRafa-2Bim.dll
+C:\Users\andor\Estudos e projetos\projeto\wpf projetos\calculate_sets\ProjetoRafa-2Bim\bin\Debug\net8.0-windows\ProjetoRafa-2Bim.pdb
+C:\Users\andor\Estudos e projetos\projeto\wpf projetos\calculate_sets\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\andor\Estudos e projetos\projeto\wpf projetos\calculate_sets\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\andor\Estudos e projetos\projeto\wpf projetos\calculate_sets\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim_MarkupCompile.cache
+C:\Users\andor\Estudos e projetos\projeto\wpf projetos\calculate_sets\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim_MarkupCompile.lref
+C:\Users\andor\Estudos e projetos\projeto\wpf projetos\calculate_sets\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\andor\Estudos e projetos\projeto\wpf projetos\calculate_sets\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.g.resources
+C:\Users\andor\Estudos e projetos\projeto\wpf projetos\calculate_sets\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andor\Estudos e projetos\projeto\wpf projetos\calculate_sets\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.AssemblyInfoInputs.cache
+C:\Users\andor\Estudos e projetos\projeto\wpf projetos\calculate_sets\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.AssemblyInfo.cs
+C:\Users\andor\Estudos e projetos\projeto\wpf projetos\calculate_sets\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.csproj.CoreCompileInputs.cache
+C:\Users\andor\Estudos e projetos\projeto\wpf projetos\calculate_sets\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.sourcelink.json
+C:\Users\andor\Estudos e projetos\projeto\wpf projetos\calculate_sets\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.dll
+C:\Users\andor\Estudos e projetos\projeto\wpf projetos\calculate_sets\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\refint\ProjetoRafa-2Bim.dll
+C:\Users\andor\Estudos e projetos\projeto\wpf projetos\calculate_sets\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.pdb
+C:\Users\andor\Estudos e projetos\projeto\wpf projetos\calculate_sets\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.genruntimeconfig.cache
+C:\Users\andor\Estudos e projetos\projeto\wpf projetos\calculate_sets\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ref\ProjetoRafa-2Bim.dll
+C:\Users\23023\Downloads\calculate_sets-main\ProjetoRafa-2Bim\bin\Debug\net8.0-windows\ProjetoRafa-2Bim.exe
+C:\Users\23023\Downloads\calculate_sets-main\ProjetoRafa-2Bim\bin\Debug\net8.0-windows\ProjetoRafa-2Bim.deps.json
+C:\Users\23023\Downloads\calculate_sets-main\ProjetoRafa-2Bim\bin\Debug\net8.0-windows\ProjetoRafa-2Bim.runtimeconfig.json
+C:\Users\23023\Downloads\calculate_sets-main\ProjetoRafa-2Bim\bin\Debug\net8.0-windows\ProjetoRafa-2Bim.dll
+C:\Users\23023\Downloads\calculate_sets-main\ProjetoRafa-2Bim\bin\Debug\net8.0-windows\ProjetoRafa-2Bim.pdb
+C:\Users\23023\Downloads\calculate_sets-main\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\23023\Downloads\calculate_sets-main\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\23023\Downloads\calculate_sets-main\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim_MarkupCompile.cache
+C:\Users\23023\Downloads\calculate_sets-main\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim_MarkupCompile.lref
+C:\Users\23023\Downloads\calculate_sets-main\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\23023\Downloads\calculate_sets-main\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.g.resources
+C:\Users\23023\Downloads\calculate_sets-main\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\23023\Downloads\calculate_sets-main\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.AssemblyInfoInputs.cache
+C:\Users\23023\Downloads\calculate_sets-main\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.AssemblyInfo.cs
+C:\Users\23023\Downloads\calculate_sets-main\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.csproj.CoreCompileInputs.cache
+C:\Users\23023\Downloads\calculate_sets-main\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.dll
+C:\Users\23023\Downloads\calculate_sets-main\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\refint\ProjetoRafa-2Bim.dll
+C:\Users\23023\Downloads\calculate_sets-main\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.pdb
+C:\Users\23023\Downloads\calculate_sets-main\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.genruntimeconfig.cache
+C:\Users\23023\Downloads\calculate_sets-main\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ref\ProjetoRafa-2Bim.dll
+C:\Users\andor\Estudos e projetos\projeto\wpf projetos\calculate_sets\calculate_sets\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\andor\Estudos e projetos\projeto\wpf projetos\calculate_sets\calculate_sets\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\andor\Estudos e projetos\projeto\wpf projetos\calculate_sets\calculate_sets\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim_MarkupCompile.cache
+C:\Users\andor\Estudos e projetos\projeto\wpf projetos\calculate_sets\calculate_sets\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim_MarkupCompile.lref
+C:\Users\andor\Estudos e projetos\projeto\wpf projetos\calculate_sets\calculate_sets\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.dll
+C:\Users\andor\Estudos e projetos\projeto\wpf projetos\calculate_sets\calculate_sets\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\refint\ProjetoRafa-2Bim.dll
+C:\Users\andor\Estudos e projetos\projeto\wpf projetos\calculate_sets\calculate_sets\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.pdb
+C:\Users\andor\Estudos e projetos\projeto\wpf projetos\calculate_sets\calculate_sets\ProjetoRafa-2Bim\bin\Debug\net8.0-windows\ProjetoRafa-2Bim.exe
+C:\Users\andor\Estudos e projetos\projeto\wpf projetos\calculate_sets\calculate_sets\ProjetoRafa-2Bim\bin\Debug\net8.0-windows\ProjetoRafa-2Bim.deps.json
+C:\Users\andor\Estudos e projetos\projeto\wpf projetos\calculate_sets\calculate_sets\ProjetoRafa-2Bim\bin\Debug\net8.0-windows\ProjetoRafa-2Bim.runtimeconfig.json
+C:\Users\andor\Estudos e projetos\projeto\wpf projetos\calculate_sets\calculate_sets\ProjetoRafa-2Bim\bin\Debug\net8.0-windows\ProjetoRafa-2Bim.dll
+C:\Users\andor\Estudos e projetos\projeto\wpf projetos\calculate_sets\calculate_sets\ProjetoRafa-2Bim\bin\Debug\net8.0-windows\ProjetoRafa-2Bim.pdb
+C:\Users\andor\Estudos e projetos\projeto\wpf projetos\calculate_sets\calculate_sets\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\andor\Estudos e projetos\projeto\wpf projetos\calculate_sets\calculate_sets\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.g.resources
+C:\Users\andor\Estudos e projetos\projeto\wpf projetos\calculate_sets\calculate_sets\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andor\Estudos e projetos\projeto\wpf projetos\calculate_sets\calculate_sets\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.AssemblyInfoInputs.cache
+C:\Users\andor\Estudos e projetos\projeto\wpf projetos\calculate_sets\calculate_sets\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.AssemblyInfo.cs
+C:\Users\andor\Estudos e projetos\projeto\wpf projetos\calculate_sets\calculate_sets\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.csproj.CoreCompileInputs.cache
+C:\Users\andor\Estudos e projetos\projeto\wpf projetos\calculate_sets\calculate_sets\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.sourcelink.json
+C:\Users\andor\Estudos e projetos\projeto\wpf projetos\calculate_sets\calculate_sets\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.genruntimeconfig.cache
+C:\Users\andor\Estudos e projetos\projeto\wpf projetos\calculate_sets\calculate_sets\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ref\ProjetoRafa-2Bim.dll
+C:\Users\andor\Downloads\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac (1)\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\ProjetoRafa-2Bim\bin\Debug\net8.0-windows\ProjetoRafa-2Bim.exe
+C:\Users\andor\Downloads\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac (1)\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\ProjetoRafa-2Bim\bin\Debug\net8.0-windows\ProjetoRafa-2Bim.deps.json
+C:\Users\andor\Downloads\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac (1)\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\ProjetoRafa-2Bim\bin\Debug\net8.0-windows\ProjetoRafa-2Bim.runtimeconfig.json
+C:\Users\andor\Downloads\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac (1)\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\ProjetoRafa-2Bim\bin\Debug\net8.0-windows\ProjetoRafa-2Bim.dll
+C:\Users\andor\Downloads\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac (1)\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\ProjetoRafa-2Bim\bin\Debug\net8.0-windows\ProjetoRafa-2Bim.pdb
+C:\Users\andor\Downloads\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac (1)\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\andor\Downloads\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac (1)\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\andor\Downloads\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac (1)\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim_MarkupCompile.cache
+C:\Users\andor\Downloads\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac (1)\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim_MarkupCompile.lref
+C:\Users\andor\Downloads\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac (1)\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\andor\Downloads\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac (1)\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.g.resources
+C:\Users\andor\Downloads\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac (1)\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andor\Downloads\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac (1)\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.AssemblyInfoInputs.cache
+C:\Users\andor\Downloads\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac (1)\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.AssemblyInfo.cs
+C:\Users\andor\Downloads\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac (1)\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.csproj.CoreCompileInputs.cache
+C:\Users\andor\Downloads\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac (1)\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.dll
+C:\Users\andor\Downloads\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac (1)\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\refint\ProjetoRafa-2Bim.dll
+C:\Users\andor\Downloads\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac (1)\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.pdb
+C:\Users\andor\Downloads\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac (1)\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.genruntimeconfig.cache
+C:\Users\andor\Downloads\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac (1)\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ref\ProjetoRafa-2Bim.dll
+D:\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\ProjetoRafa-2Bim\bin\Debug\net8.0-windows\ProjetoRafa-2Bim.exe
+D:\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\ProjetoRafa-2Bim\bin\Debug\net8.0-windows\ProjetoRafa-2Bim.deps.json
+D:\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\ProjetoRafa-2Bim\bin\Debug\net8.0-windows\ProjetoRafa-2Bim.runtimeconfig.json
+D:\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\ProjetoRafa-2Bim\bin\Debug\net8.0-windows\ProjetoRafa-2Bim.dll
+D:\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\ProjetoRafa-2Bim\bin\Debug\net8.0-windows\ProjetoRafa-2Bim.pdb
+D:\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\App.g.cs
+D:\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim_MarkupCompile.cache
+D:\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim_MarkupCompile.lref
+D:\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\MainWindow.baml
+D:\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.g.resources
+D:\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.GeneratedMSBuildEditorConfig.editorconfig
+D:\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.AssemblyInfoInputs.cache
+D:\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.AssemblyInfo.cs
+D:\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.csproj.CoreCompileInputs.cache
+D:\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.dll
+D:\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\refint\ProjetoRafa-2Bim.dll
+D:\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.pdb
+D:\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.genruntimeconfig.cache
+D:\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ref\ProjetoRafa-2Bim.dll
+C:\Users\andor\Downloads\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\ProjetoRafa-2Bim\bin\Debug\net8.0-windows\ProjetoRafa-2Bim.exe
+C:\Users\andor\Downloads\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\ProjetoRafa-2Bim\bin\Debug\net8.0-windows\ProjetoRafa-2Bim.deps.json
+C:\Users\andor\Downloads\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\ProjetoRafa-2Bim\bin\Debug\net8.0-windows\ProjetoRafa-2Bim.runtimeconfig.json
+C:\Users\andor\Downloads\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\ProjetoRafa-2Bim\bin\Debug\net8.0-windows\ProjetoRafa-2Bim.dll
+C:\Users\andor\Downloads\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\ProjetoRafa-2Bim\bin\Debug\net8.0-windows\ProjetoRafa-2Bim.pdb
+C:\Users\andor\Downloads\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\andor\Downloads\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\andor\Downloads\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim_MarkupCompile.cache
+C:\Users\andor\Downloads\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim_MarkupCompile.lref
+C:\Users\andor\Downloads\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\andor\Downloads\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.g.resources
+C:\Users\andor\Downloads\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andor\Downloads\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.AssemblyInfoInputs.cache
+C:\Users\andor\Downloads\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.AssemblyInfo.cs
+C:\Users\andor\Downloads\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.csproj.CoreCompileInputs.cache
+C:\Users\andor\Downloads\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.dll
+C:\Users\andor\Downloads\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\refint\ProjetoRafa-2Bim.dll
+C:\Users\andor\Downloads\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.pdb
+C:\Users\andor\Downloads\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ProjetoRafa-2Bim.genruntimeconfig.cache
+C:\Users\andor\Downloads\calculate_sets-8933e4b25bb7a0283de7e7952f7539d73157d5ac\ProjetoRafa-2Bim\obj\Debug\net8.0-windows\ref\ProjetoRafa-2Bim.dll
